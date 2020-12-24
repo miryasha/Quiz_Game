@@ -3,4 +3,4 @@
 Make your own quiz game easy
 
 
-<img src="imagegif" alt="GIF">
+<img src="image.jpg" alt="JPG">
